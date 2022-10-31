@@ -1,0 +1,7 @@
+{
+  "name": "azure-test-ionic-build",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
